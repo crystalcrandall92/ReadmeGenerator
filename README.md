@@ -12,7 +12,7 @@ MIT
 3. [Usage](#usage-information)
 4. [Contribution](#contribution-guidelines)
 5. [Test](#test-instructions)
-6. [Questions & Contact](#questions-&-contact-information-below)
+6. [Questions & Contact](#questions-and-contact-information-below)
 
 ### Description
 Generates a readME.md through the answers provided by the user regarding these categories: description, installation, usage, contribution, test, questions and contact  
@@ -29,7 +29,7 @@ See contact information
 ### Test Instructions
 Run "node index"
 
-### Questions & Contact Information Below
+### Questions and Contact Information Below
 #### Github Username: crystalcrandall92
 #### Github Link: https://github.com/crystalcrandall92
 #### Email: crystalcrandall92@yahoo.com
