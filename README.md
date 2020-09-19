@@ -33,6 +33,13 @@ Run "node index"
 #### Github Username: crystalcrandall92
 #### Github Link: https://github.com/crystalcrandall92
 #### Email: crystalcrandall92@yahoo.com
+
+![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readmeA.gif)
+
+![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readmeB.gif)
+
+![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readmeC.gif)
+
      
 ![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readme1.gif)
 
