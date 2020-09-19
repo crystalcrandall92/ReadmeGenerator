@@ -8,11 +8,11 @@ MIT
   
 ## Table of Contents
 1. [Description](#description)
-2. [Installation](#2.-installation-instructions)
-3. [Usage](#3.-usage-information)
-4. [Contribution](#4.-contribution-guidelines)
-5. [Test](#5.-test-instructions)
-6. [Questions & Contact](#6.-questions?-contact-information-below)
+2. [Installation](#installation-instructions)
+3. [Usage](#usage-information)
+4. [Contribution](#contribution-guidelines)
+5. [Test](#test-instructions)
+6. [Questions & Contact](#questions?-contact-information-below)
 
 ### Description
 Generates a readME.md through the answers provided by the user regarding these categories: description, installation, usage, contribution, test, questions and contact  
