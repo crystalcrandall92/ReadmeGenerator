@@ -66,13 +66,6 @@ function promptUser() {
 ]);
 }
 
-// function datalicense(License) {
-//     switch () {
-        
-//     }
-// }
-
-
 function generateMd(answers) {
     return `
 # ${answers.Title} ![GitHub](https://img.shields.io/github/license/${answers.Username}/${answers.Repository}?style=for-the-badge) 
