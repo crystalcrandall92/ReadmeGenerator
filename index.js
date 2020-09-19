@@ -81,22 +81,22 @@ ${answers.License}
 5. [Test](#5.-test-instructions)
 6. [Questions & Contact](#6.-questions?-contact-information-below)
 
-### 1. Description
+### Description
 ${answers.Description}  
 
-### 2. Installation Instructions
+### Installation Instructions
 ${answers.Installation}
 
-### 3. Usage Information
+### Usage Information
 ${answers.Usage}
 
-### 4. Contribution Guidelines
+### Contribution Guidelines
 ${answers.Contribution}
 
-### 5. Test Instructions
+### Test Instructions
 ${answers.Test}
 
-### 6. Questions? Contact Information Below
+### Questions and Contact Information Below
 #### Github Username: ${answers.Username}
 #### Github Link: ${answers.Github}
 #### Email: ${answers.Email}
