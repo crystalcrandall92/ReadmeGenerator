@@ -34,3 +34,7 @@ Run "node index"
 #### Github Link: https://github.com/crystalcrandall92
 #### Email: crystalcrandall92@yahoo.com
      
+![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readme1.gif)
+
+
+![Alt Text](https://github.com/crystalcrandall92/ReadmeGenerator/blob/master/readme2.gif)
